@@ -1,2 +1,2 @@
-# atisni.github.io
+# atisni
 pancake
